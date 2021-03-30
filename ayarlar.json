@@ -1,0 +1,15 @@
+{
+  "prefix": "botun ön eki",
+  "token": "token",
+  "log": "log kanal id",
+  "yetkiverici": "yetki veren rol id",
+
+  "katıldı": "katıldı rol id",
+  "kayıtgörevlisi": "kayıt görevlisi id",
+  "mutegörevlisi": "mute görevlisi id",
+  "bangörevlisi": "ban görevlisi id",
+
+  "yetkili1": "1. yetkili rolü",
+  "yetkili2": "2.ci yetkili rolü",
+  "yetkili3": "3.cü yetkili rolü"
+}
